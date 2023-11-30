@@ -6,7 +6,7 @@ import mysql.connector
 
 #Twilio - SMS/Whatsapp
 sid = "ACc8e25724f2e4841758fc5984e169f20d"
-token = "466f0ece5e7cd5482e3f784eb0cc9576"
+token = "90c87c2d4b035f151325fa6b058d3a56"
 client = Client(sid, token)
 
 #Flask
